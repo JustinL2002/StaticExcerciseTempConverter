@@ -1,4 +1,4 @@
 ﻿using StaticExcercise;
 
-TempConverter.CelciusToFarenheit(20);
-TempConverter.FarenheitToCelcius(20);
+TempConverter.CelciusToFarenheit(0);
+TempConverter.FarenheitToCelcius(32);
