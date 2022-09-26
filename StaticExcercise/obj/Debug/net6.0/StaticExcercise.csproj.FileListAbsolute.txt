@@ -1,0 +1,15 @@
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\bin\Debug\net6.0\StaticExcercise.exe
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\bin\Debug\net6.0\StaticExcercise.deps.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\bin\Debug\net6.0\StaticExcercise.runtimeconfig.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\bin\Debug\net6.0\StaticExcercise.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\bin\Debug\net6.0\StaticExcercise.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\StaticExcercise.csproj.AssemblyReference.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\StaticExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\StaticExcercise.AssemblyInfoInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\StaticExcercise.AssemblyInfo.cs
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\StaticExcercise.csproj.CoreCompileInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\StaticExcercise.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\refint\StaticExcercise.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\StaticExcercise.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\StaticExcercise.genruntimeconfig.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\StaticExcercise\StaticExcercise\obj\Debug\net6.0\ref\StaticExcercise.dll
